@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>style.css</file>
+        <file>template.html</file>
+        <file>Folder.png</file>
+        <file>Page.png</file>
+    </qresource>
+</RCC>

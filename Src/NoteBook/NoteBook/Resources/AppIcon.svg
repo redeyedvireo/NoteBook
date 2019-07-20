@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="AppIcon.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="310.3772"
+     inkscape:cy="494.25176"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1421"
+     inkscape:window-height="1099"
+     inkscape:window-x="230"
+     inkscape:window-y="3"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#b98863;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2816"
+       width="127.14286"
+       height="152.85715"
+       x="140.9579"
+       y="272.09964"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       id="path2818"
+       sodipodi:cx="247.14285"
+       sodipodi:cy="339.50504"
+       sodipodi:rx="4.2857141"
+       sodipodi:ry="4.2857141"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       transform="matrix(0.57784669,0,0,0.57784669,4.352451,89.280023)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.57784669,0,0,0.57784669,4.265791,152.34058)"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       sodipodi:ry="4.2857141"
+       sodipodi:rx="4.2857141"
+       sodipodi:cy="339.50504"
+       sodipodi:cx="247.14285"
+       id="path3592"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       id="path3594"
+       sodipodi:cx="247.14285"
+       sodipodi:cy="339.50504"
+       sodipodi:rx="4.2857141"
+       sodipodi:ry="4.2857141"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       transform="matrix(0.57784669,0,0,0.57784669,4.327071,217.56939)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3600"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-174.75639,-54.548237)">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3596"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3598"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3604"
+       transform="translate(-174.69325,-57.51556)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3606"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3608"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.69325,-60.419749)"
+       id="g3610"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3612"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3614"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3616"
+       transform="translate(-174.56699,-63.323937)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3618"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3620"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       id="g3622"
+       transform="translate(-174.81186,-42.994617)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3624"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3626"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.88266,-45.96194)"
+       id="g3628"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3630"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3632"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3634"
+       transform="translate(-174.88266,-48.866129)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3636"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3638"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.75639,-51.770318)"
+       id="g3640"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3642"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3644"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3646"
+       transform="translate(-174.72258,-31.404014)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3648"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3650"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.83802,-34.326695)"
+       id="g3652"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3654"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3656"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3658"
+       transform="translate(-174.83802,-37.18624)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3660"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3662"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.75639,-40.090429)"
+       id="g3664"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3666"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3668"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-174.8227,-19.761108)"
+       id="g3670"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3672"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3674"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3676"
+       transform="translate(-174.8042,-22.728432)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3678"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3680"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.75956,-25.587977)"
+       id="g3682"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3684"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3686"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3688"
+       transform="translate(-174.72258,-28.492166)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3690"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3692"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       id="g3694"
+       transform="translate(-174.84567,-7.985737)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3696"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3698"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.96111,-10.908417)"
+       id="g3700"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3702"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3704"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3706"
+       transform="translate(-174.96111,-13.812606)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3708"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3710"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.83484,-16.716794)"
+       id="g3712"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3714"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3716"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-174.85651,3.657169)"
+       id="g3718"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3720"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3722"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3724"
+       transform="translate(-174.83802,0.77913197)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3726"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3728"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.83802,-2.214343)"
+       id="g3730"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3732"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3734"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3736"
+       transform="translate(-174.80103,-5.118532)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3738"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3740"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.81186,15.247772)"
+       id="g3742"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3744"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3746"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3748"
+       transform="translate(-174.79337,12.325091)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3750"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3752"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.83802,9.465546)"
+       id="g3754"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3756"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3758"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3760"
+       transform="translate(-174.80103,6.561357)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3762"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3764"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       id="g3766"
+       transform="translate(-174.77805,26.846035)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3768"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3770"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.8042,23.923354)"
+       id="g3772"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3774"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3776"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3778"
+       transform="translate(-174.8042,21.019166)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3780"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3782"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.81186,18.114977)"
+       id="g3784"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3786"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3788"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3790"
+       transform="translate(-174.88266,38.512067)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3792"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3794"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.81952,35.544743)"
+       id="g3796"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3798"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3800"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3802"
+       transform="translate(-174.81952,32.640555)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3804"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3806"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.69325,29.736366)"
+       id="g3808"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3810"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3812"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-174.93813,50.065683)"
+       id="g3814"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3816"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3818"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3820"
+       transform="translate(-174.88266,47.098363)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3822"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3824"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.88266,44.194175)"
+       id="g3826"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3828"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3830"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3832"
+       transform="translate(-174.88266,41.289986)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3834"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3836"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.84885,61.656283)"
+       id="g3838"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3840"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3842"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3844"
+       transform="translate(-174.77488,58.796733)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3846"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3848"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.90115,55.874063)"
+       id="g3850"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3852"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3854"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3856"
+       transform="translate(-174.88266,52.969873)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3858"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3860"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       id="g3862"
+       transform="translate(-174.8227,73.299193)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3864"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3866"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.86734,70.331873)"
+       id="g3868"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3870"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3872"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3874"
+       transform="translate(-174.88583,67.472323)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3876"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3878"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.84885,64.568133)"
+       id="g3880"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3882"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3884"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-174.78254,85.137693)"
+       id="g3886"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3888"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3890"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3892"
+       transform="translate(-174.83484,82.151883)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3894"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3896"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <g
+       transform="translate(-174.89798,79.247693)"
+       id="g3898"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3900"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path3902"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3904"
+       transform="translate(-174.83484,76.280373)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 315.27427,335.81457 c 0,0 -2.34012,0.16156 -2.29429,1.04151 0.0519,0.99779 4.64929,0.98662 4.64929,0.98662"
+         id="path3906"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3908"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(0.56328997,0,0,0.89375999,142.75133,37.119283)" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       y="493.32303"
+       x="148.02898"
+       height="152.85715"
+       width="127.14286"
+       id="rect4265"
+       style="fill:#b98863;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       transform="matrix(0.57784669,0,0,0.57784669,17.423521,310.50343)"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       sodipodi:ry="4.2857141"
+       sodipodi:rx="4.2857141"
+       sodipodi:cy="339.50504"
+       sodipodi:cx="247.14285"
+       id="path4267"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       sodipodi:type="arc"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       id="path4269"
+       sodipodi:cx="247.14285"
+       sodipodi:cy="339.50504"
+       sodipodi:rx="4.2857141"
+       sodipodi:ry="4.2857141"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       transform="matrix(0.57784669,0,0,0.57784669,17.336861,373.56399)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       transform="matrix(0.57784669,0,0,0.57784669,17.398141,438.7928)"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       sodipodi:ry="4.2857141"
+       sodipodi:rx="4.2857141"
+       sodipodi:cy="339.50504"
+       sodipodi:cx="247.14285"
+       id="path4271"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <g
+       id="g4623"
+       transform="translate(-174.75639,-52.548237)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         id="path4593"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4595"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)" />
+    </g>
+    <g
+       id="g4627"
+       transform="translate(-174.75639,-38.406101)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path4629"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path4631"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-174.75639,-24.516504)"
+       id="g4633"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         id="path4635"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4637"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)" />
+    </g>
+    <g
+       id="g4639"
+       transform="translate(-174.75639,-11.131983)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path4641"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path4643"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g4645"
+       transform="translate(-174.75639,2.757615)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path4647"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path4649"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-174.75639,16.899751)"
+       id="g4651"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         id="path4653"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4655"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)" />
+    </g>
+    <g
+       id="g4657"
+       transform="translate(-174.75639,30.789348)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path4659"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path4661"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-174.75639,44.173869)"
+       id="g4663"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         id="path4665"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4667"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)" />
+    </g>
+    <g
+       transform="translate(-174.75639,58.063463)"
+       id="g4669"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         id="path4671"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4673"
+         sodipodi:cx="310.53571"
+         sodipodi:cy="336.46933"
+         sodipodi:rx="0.17857143"
+         sodipodi:ry="0.15625"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)" />
+    </g>
+    <g
+       id="g4675"
+       transform="translate(-174.75639,72.205603)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path4677"
+         d="m 322.41672,552.86495 c 0,0 -6.12188,0.0163 -6.02994,4.34938 0.10409,4.91337 11.35273,8.31885 11.35273,8.31885"
+         style="fill:none;stroke:#bfbfbf;stroke-width:3.14261055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.495253,0,0,3.1537122,-136.54936,-495.57879)"
+         d="m 310.71428,336.46933 c 0,0.0863 -0.0799,0.15625 -0.17857,0.15625 -0.0986,0 -0.17858,-0.07 -0.17858,-0.15625 0,-0.0863 0.0799,-0.15625 0.17858,-0.15625 0.0986,0 0.17857,0.07 0.17857,0.15625 z"
+         sodipodi:ry="0.15625"
+         sodipodi:rx="0.17857143"
+         sodipodi:cy="336.46933"
+         sodipodi:cx="310.53571"
+         id="path4679"
+         style="fill:none;stroke:#bfbfbf;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <rect
+       style="fill:#b98863;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3185"
+       width="127.14286"
+       height="152.85715"
+       x="371.27274"
+       y="440.7951"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       id="path3187"
+       sodipodi:cx="247.14285"
+       sodipodi:cy="339.50504"
+       sodipodi:rx="4.2857141"
+       sodipodi:ry="4.2857141"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       transform="matrix(0.57784669,0,0,0.57784669,240.66723,257.9755)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.57784669,0,0,0.57784669,240.58057,321.03606)"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       sodipodi:ry="4.2857141"
+       sodipodi:rx="4.2857141"
+       sodipodi:cy="339.50504"
+       sodipodi:cx="247.14285"
+       id="path3189"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#fff8f8;fill-opacity:1;stroke:none"
+       id="path3191"
+       sodipodi:cx="247.14285"
+       sodipodi:cy="339.50504"
+       sodipodi:rx="4.2857141"
+       sodipodi:ry="4.2857141"
+       d="m 251.42857,339.50504 a 4.2857141,4.2857141 0 1 1 -8.57143,0 4.2857141,4.2857141 0 1 1 8.57143,0 z"
+       transform="matrix(0.57784669,0,0,0.57784669,240.64185,386.26487)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4033"
+       transform="translate(-174.75639,-54.548237)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path3255"
+         d="m 545.95579,501.70782 c 0,0 -11.22821,0.0309 -11.05958,8.24259 0.19091,9.31142 18.29679,15.76521 18.29679,15.76521"
+         style="fill:none;stroke:#d7d7d7;stroke-width:5.8589735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.80144888,0,0,0.80144888,146.9687,79.172261)"
+         d="m 510.12703,557.26117 c 0,1.74341 -1.41331,3.15673 -3.15672,3.15673 -1.74342,0 -3.15673,-1.41332 -3.15673,-3.15673 0,-1.74341 1.41331,-3.15673 3.15673,-3.15673 1.74341,0 3.15672,1.41332 3.15672,3.15673 z"
+         sodipodi:ry="3.1567266"
+         sodipodi:rx="3.1567266"
+         sodipodi:cy="557.26117"
+         sodipodi:cx="506.97031"
+         id="path4031"
+         style="fill:#d7d7d7;fill-opacity:1;stroke:#d7d7d7;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g4037"
+       transform="translate(-175.26147,-28.031733)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#d7d7d7;stroke-width:5.8589735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 545.95579,501.70782 c 0,0 -11.22821,0.0309 -11.05958,8.24259 0.19091,9.31142 18.29679,15.76521 18.29679,15.76521"
+         id="path4039"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#d7d7d7;fill-opacity:1;stroke:#d7d7d7;stroke-opacity:1"
+         id="path4041"
+         sodipodi:cx="506.97031"
+         sodipodi:cy="557.26117"
+         sodipodi:rx="3.1567266"
+         sodipodi:ry="3.1567266"
+         d="m 510.12703,557.26117 c 0,1.74341 -1.41331,3.15673 -3.15672,3.15673 -1.74342,0 -3.15673,-1.41332 -3.15673,-3.15673 0,-1.74341 1.41331,-3.15673 3.15673,-3.15673 1.74341,0 3.15672,1.41332 3.15672,3.15673 z"
+         transform="matrix(0.80144888,0,0,0.80144888,146.9687,79.172261)" />
+    </g>
+    <g
+       transform="translate(-175.26147,-1.515229)"
+       id="g4043"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path4045"
+         d="m 545.95579,501.70782 c 0,0 -11.22821,0.0309 -11.05958,8.24259 0.19091,9.31142 18.29679,15.76521 18.29679,15.76521"
+         style="fill:none;stroke:#d7d7d7;stroke-width:5.8589735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.80144888,0,0,0.80144888,146.9687,79.172261)"
+         d="m 510.12703,557.26117 c 0,1.74341 -1.41331,3.15673 -3.15672,3.15673 -1.74342,0 -3.15673,-1.41332 -3.15673,-3.15673 0,-1.74341 1.41331,-3.15673 3.15673,-3.15673 1.74341,0 3.15672,1.41332 3.15672,3.15673 z"
+         sodipodi:ry="3.1567266"
+         sodipodi:rx="3.1567266"
+         sodipodi:cy="557.26117"
+         sodipodi:cx="506.97031"
+         id="path4047"
+         style="fill:#d7d7d7;fill-opacity:1;stroke:#d7d7d7;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g4049"
+       transform="translate(-175.26147,25.253813)"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#d7d7d7;stroke-width:5.8589735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 545.95579,501.70782 c 0,0 -11.22821,0.0309 -11.05958,8.24259 0.19091,9.31142 18.29679,15.76521 18.29679,15.76521"
+         id="path4051"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#d7d7d7;fill-opacity:1;stroke:#d7d7d7;stroke-opacity:1"
+         id="path4053"
+         sodipodi:cx="506.97031"
+         sodipodi:cy="557.26117"
+         sodipodi:rx="3.1567266"
+         sodipodi:ry="3.1567266"
+         d="m 510.12703,557.26117 c 0,1.74341 -1.41331,3.15673 -3.15672,3.15673 -1.74342,0 -3.15673,-1.41332 -3.15673,-3.15673 0,-1.74341 1.41331,-3.15673 3.15673,-3.15673 1.74341,0 3.15672,1.41332 3.15672,3.15673 z"
+         transform="matrix(0.80144888,0,0,0.80144888,146.9687,79.172261)" />
+    </g>
+    <g
+       transform="translate(-175.26147,51.770313)"
+       id="g4055"
+       inkscape:export-filename="E:\Dev\NoteBook\trunk\Src\NoteBook\NoteBook\Resources\AppIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         id="path4057"
+         d="m 545.95579,501.70782 c 0,0 -11.22821,0.0309 -11.05958,8.24259 0.19091,9.31142 18.29679,15.76521 18.29679,15.76521"
+         style="fill:none;stroke:#d7d7d7;stroke-width:5.8589735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.80144888,0,0,0.80144888,146.9687,79.172261)"
+         d="m 510.12703,557.26117 c 0,1.74341 -1.41331,3.15673 -3.15672,3.15673 -1.74342,0 -3.15673,-1.41332 -3.15673,-3.15673 0,-1.74341 1.41331,-3.15673 3.15673,-3.15673 1.74341,0 3.15672,1.41332 3.15672,3.15673 z"
+         sodipodi:ry="3.1567266"
+         sodipodi:rx="3.1567266"
+         sodipodi:cy="557.26117"
+         sodipodi:cx="506.97031"
+         id="path4059"
+         style="fill:#d7d7d7;fill-opacity:1;stroke:#d7d7d7;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>

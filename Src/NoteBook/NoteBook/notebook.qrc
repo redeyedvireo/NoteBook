@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="NoteBook">
+    <file>Resources/clear-formatting.png</file>
+    <file>Resources/ToDoList.png</file>
+    <file>Resources/Strikethrough.png</file>
+    <file>Resources/IndentLeft.png</file>
+    <file>Resources/IndentRight.png</file>
+    <file>NoteBook.ico</file>
+    <file>Resources/pencil.png</file>
+    <file>Resources/plus.png</file>
+    <file>Resources/minus.png</file>
+    <file>Resources/star.png</file>
+    <file>Resources/star-outline.png</file>
+    <file>Resources/Close.png</file>
+    <file>Resources/Search.png</file>
+    <file>Resources/Page.png</file>
+    <file>Resources/Folder Closed.png</file>
+    <file>Resources/Folder Open.png</file>
+    <file>Resources/Horizontal Line.png</file>
+    <file>Resources/Table.png</file>
+    <file>Resources/Text Background.png</file>
+    <file>Resources/Text Foreground.png</file>
+    <file>Resources/No Color.png</file>
+    <file>Resources/Bullet Table.png</file>
+    <file>Resources/Number Table.png</file>
+    <file>Resources/Underline.png</file>
+    <file>Resources/Italic.png</file>
+    <file>Resources/Bold.png</file>
+    <file>Resources/Right.png</file>
+    <file>Resources/Center.png</file>
+    <file>Resources/Left.png</file>
+  </qresource>
+</RCC>

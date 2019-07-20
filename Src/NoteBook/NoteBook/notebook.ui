@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NoteBookClass</class>
+ <widget class="QMainWindow" name="NoteBookClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>855</width>
+    <height>768</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>NoteBook</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="notebook.qrc">
+    <normaloff>:/NoteBook/NoteBook.ico</normaloff>:/NoteBook/NoteBook.ico</iconset>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="CTitleLabelWidget" name="titleLabelWidget" native="true"/>
+    </item>
+    <item>
+     <widget class="QStackedWidget" name="editorStackedWidget">
+      <property name="sizeIncrement">
+       <size>
+        <width>0</width>
+        <height>1</height>
+       </size>
+      </property>
+      <property name="currentIndex">
+       <number>-1</number>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QLabel" name="label_5">
+        <property name="text">
+         <string>Tags</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="tagsEdit"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QLabel" name="messageLabel">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+          <horstretch>1</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="savePageButton">
+        <property name="toolTip">
+         <string>Save Page (Ctrl+S)</string>
+        </property>
+        <property name="text">
+         <string>Save Page</string>
+        </property>
+        <property name="shortcut">
+         <string>Ctrl+S</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>855</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <widget class="QMenu" name="menuImport">
+     <property name="title">
+      <string>Import...</string>
+     </property>
+     <addaction name="actionImportPage"/>
+    </widget>
+    <addaction name="actionNew_Notebook"/>
+    <addaction name="actionOpen_Notebook"/>
+    <addaction name="actionRecent_Notebooks"/>
+    <addaction name="actionClose"/>
+    <addaction name="separator"/>
+    <addaction name="actionExport"/>
+    <addaction name="separator"/>
+    <addaction name="menuImport"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <widget class="QMenu" name="menuEdit">
+    <property name="title">
+     <string>Edit</string>
+    </property>
+    <addaction name="actionCut"/>
+    <addaction name="actionCopy"/>
+    <addaction name="actionPaste"/>
+   </widget>
+   <widget class="QMenu" name="menuSettings">
+    <property name="title">
+     <string>Settings</string>
+    </property>
+    <addaction name="actionSettings"/>
+   </widget>
+   <widget class="QMenu" name="menuFavorites">
+    <property name="title">
+     <string>Favorites</string>
+    </property>
+    <addaction name="actionAdd_Page_to_Favorites"/>
+   </widget>
+   <widget class="QMenu" name="menuToolbars">
+    <property name="title">
+     <string>Toolbars</string>
+    </property>
+    <addaction name="actionNew_Toolbar"/>
+   </widget>
+   <widget class="QMenu" name="menuHelp">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <addaction name="actionAbout_NoteBook"/>
+    <addaction name="actionAbout_Qt"/>
+   </widget>
+   <widget class="QMenu" name="menuPage">
+    <property name="title">
+     <string>Page</string>
+    </property>
+    <addaction name="actionNew_Page"/>
+    <addaction name="separator"/>
+    <addaction name="actionPage_Info"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuEdit"/>
+   <addaction name="menuPage"/>
+   <addaction name="menuSettings"/>
+   <addaction name="menuFavorites"/>
+   <addaction name="menuToolbars"/>
+   <addaction name="menuHelp"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <widget class="QDockWidget" name="navigationDockWidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>280</width>
+     <height>144</height>
+    </size>
+   </property>
+   <property name="windowTitle">
+    <string>Navigation</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents">
+    <layout class="QVBoxLayout" name="verticalLayout_3">
+     <item>
+      <widget class="QTabWidget" name="navigationTabWidget">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>1</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="currentIndex">
+        <number>0</number>
+       </property>
+       <widget class="QWidget" name="treeTab">
+        <attribute name="title">
+         <string>Tree</string>
+        </attribute>
+        <layout class="QVBoxLayout" name="verticalLayout_4">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <property name="leftMargin">
+          <number>0</number>
+         </property>
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <property name="rightMargin">
+          <number>0</number>
+         </property>
+         <property name="bottomMargin">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="CPageTree" name="pageTree">
+           <column>
+            <property name="text">
+             <string>Page Title</string>
+            </property>
+           </column>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="listTab">
+        <attribute name="title">
+         <string>List</string>
+        </attribute>
+        <layout class="QVBoxLayout" name="verticalLayout_5">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <property name="leftMargin">
+          <number>0</number>
+         </property>
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <property name="rightMargin">
+          <number>0</number>
+         </property>
+         <property name="bottomMargin">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="CPageTitleList" name="pageTitleList">
+           <property name="sortingEnabled">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="dateTab">
+        <attribute name="title">
+         <string>Date</string>
+        </attribute>
+        <layout class="QVBoxLayout" name="verticalLayout_6">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <property name="leftMargin">
+          <number>0</number>
+         </property>
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <property name="rightMargin">
+          <number>0</number>
+         </property>
+         <property name="bottomMargin">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="CDateTree" name="dateTree">
+           <property name="sortingEnabled">
+            <bool>false</bool>
+           </property>
+           <column>
+            <property name="text">
+             <string>Date</string>
+            </property>
+           </column>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="tagsTab">
+        <attribute name="title">
+         <string>Tags</string>
+        </attribute>
+        <layout class="QVBoxLayout" name="verticalLayout_7">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <property name="leftMargin">
+          <number>0</number>
+         </property>
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <property name="rightMargin">
+          <number>0</number>
+         </property>
+         <property name="bottomMargin">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="CTagList" name="tagList">
+           <property name="sortingEnabled">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="recentlyViewedDockWidget">
+   <property name="minimumSize">
+    <size>
+     <width>294</width>
+     <height>146</height>
+    </size>
+   </property>
+   <property name="windowTitle">
+    <string/>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_3">
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QTabWidget" name="auxNavigationTabWidget">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="tabPosition">
+        <enum>QTabWidget::South</enum>
+       </property>
+       <property name="currentIndex">
+        <number>0</number>
+       </property>
+       <widget class="QWidget" name="pageHistoryTab">
+        <attribute name="title">
+         <string>Recently Viewed</string>
+        </attribute>
+        <layout class="QVBoxLayout" name="verticalLayout_8">
+         <property name="spacing">
+          <number>1</number>
+         </property>
+         <property name="leftMargin">
+          <number>1</number>
+         </property>
+         <property name="topMargin">
+          <number>1</number>
+         </property>
+         <property name="rightMargin">
+          <number>1</number>
+         </property>
+         <property name="bottomMargin">
+          <number>1</number>
+         </property>
+         <item>
+          <widget class="CPageHistoryWidget" name="recentlyViewedList"/>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="searchTab">
+        <attribute name="title">
+         <string>Search</string>
+        </attribute>
+        <layout class="QVBoxLayout" name="verticalLayout_9">
+         <property name="spacing">
+          <number>1</number>
+         </property>
+         <property name="leftMargin">
+          <number>1</number>
+         </property>
+         <property name="topMargin">
+          <number>1</number>
+         </property>
+         <property name="rightMargin">
+          <number>1</number>
+         </property>
+         <property name="bottomMargin">
+          <number>1</number>
+         </property>
+         <item>
+          <widget class="CSearchWidget" name="searchWidget" native="true"/>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="favoritesTab">
+        <attribute name="title">
+         <string>Favorites</string>
+        </attribute>
+        <layout class="QVBoxLayout" name="verticalLayout_10">
+         <property name="spacing">
+          <number>1</number>
+         </property>
+         <property name="leftMargin">
+          <number>1</number>
+         </property>
+         <property name="topMargin">
+          <number>1</number>
+         </property>
+         <property name="rightMargin">
+          <number>1</number>
+         </property>
+         <property name="bottomMargin">
+          <number>1</number>
+         </property>
+         <item>
+          <widget class="CFavoritesWidget" name="favoritesWidget" native="true"/>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionNew_Page"/>
+   <addaction name="actionNew_To_Do_List"/>
+   <addaction name="actionNew_Top_Level_Page"/>
+   <addaction name="actionNew_Folder"/>
+   <addaction name="actionNew_Top_Level_Folder"/>
+  </widget>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionCut">
+   <property name="text">
+    <string>Cut</string>
+   </property>
+  </action>
+  <action name="actionCopy">
+   <property name="text">
+    <string>Copy</string>
+   </property>
+  </action>
+  <action name="actionPaste">
+   <property name="text">
+    <string>Paste</string>
+   </property>
+  </action>
+  <action name="actionAbout_NoteBook">
+   <property name="text">
+    <string>About NoteBook...</string>
+   </property>
+  </action>
+  <action name="actionNew_Toolbar">
+   <property name="text">
+    <string>New Toolbar...</string>
+   </property>
+  </action>
+  <action name="actionAdd_Page_to_Favorites">
+   <property name="text">
+    <string>Add Page to Favorites</string>
+   </property>
+  </action>
+  <action name="actionSettings">
+   <property name="text">
+    <string>Settings...</string>
+   </property>
+  </action>
+  <action name="actionNew_Notebook">
+   <property name="text">
+    <string>New Notebook...</string>
+   </property>
+  </action>
+  <action name="actionOpen_Notebook">
+   <property name="text">
+    <string>Open Noteboook...</string>
+   </property>
+  </action>
+  <action name="actionClose">
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </action>
+  <action name="actionNew_Page">
+   <property name="text">
+    <string>New Page</string>
+   </property>
+  </action>
+  <action name="actionImport_TiddlyWiki">
+   <property name="text">
+    <string>Import TiddlyWiki...</string>
+   </property>
+  </action>
+  <action name="actionPage_Info">
+   <property name="text">
+    <string>Page Info...</string>
+   </property>
+  </action>
+  <action name="actionRecent_Notebooks">
+   <property name="text">
+    <string>Recent Notebooks</string>
+   </property>
+  </action>
+  <action name="actionNew_Folder">
+   <property name="text">
+    <string>New Folder</string>
+   </property>
+  </action>
+  <action name="actionNew_Top_Level_Page">
+   <property name="text">
+    <string>New Top-Level Page</string>
+   </property>
+  </action>
+  <action name="actionNew_Top_Level_Folder">
+   <property name="text">
+    <string>New Top-Level Folder</string>
+   </property>
+  </action>
+  <action name="actionAbout_Qt">
+   <property name="text">
+    <string>About Qt...</string>
+   </property>
+  </action>
+  <action name="actionExport">
+   <property name="text">
+    <string>Export...</string>
+   </property>
+  </action>
+  <action name="actionImportPage">
+   <property name="text">
+    <string>Page...</string>
+   </property>
+  </action>
+  <action name="actionNew_To_Do_List">
+   <property name="text">
+    <string>New To Do List</string>
+   </property>
+   <property name="toolTip">
+    <string>Create a new To Do list</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>CPageTree</class>
+   <extends>QTreeWidget</extends>
+   <header>PageTree.h</header>
+  </customwidget>
+  <customwidget>
+   <class>CDateTree</class>
+   <extends>QTreeWidget</extends>
+   <header>DateTree.h</header>
+  </customwidget>
+  <customwidget>
+   <class>CPageTitleList</class>
+   <extends>QListWidget</extends>
+   <header>PageTitleList.h</header>
+  </customwidget>
+  <customwidget>
+   <class>CTagList</class>
+   <extends>QListWidget</extends>
+   <header>TagList.h</header>
+  </customwidget>
+  <customwidget>
+   <class>CPageHistoryWidget</class>
+   <extends>QListWidget</extends>
+   <header>PageHistoryWidget.h</header>
+  </customwidget>
+  <customwidget>
+   <class>CSearchWidget</class>
+   <extends>QWidget</extends>
+   <header>SearchWidget.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>CFavoritesWidget</class>
+   <extends>QWidget</extends>
+   <header>FavoritesWidget.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>CTitleLabelWidget</class>
+   <extends>QWidget</extends>
+   <header>TitleLabelWidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="notebook.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>actionExit</sender>
+   <signal>triggered()</signal>
+   <receiver>NoteBookClass</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>427</x>
+     <y>383</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

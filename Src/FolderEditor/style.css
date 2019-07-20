@@ -1,0 +1,37 @@
+<style type="text/css">
+    body {
+        background-color: #f0f0f0;
+        font-family: sans-serif;
+        text-align: center;
+    }
+    h1 {
+        font-family: sans-serif;
+        text-align: center;
+    }
+    a {
+        font-family: sans-serif;
+    }
+    div.container {
+        min-height: 10em;
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+    }
+    div.folder {
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 1.7em;
+        font-weight: bold;
+        text-shadow: 1px 1px #e0e0e0;
+    }
+    div.contents {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    div.pagelist {
+        line-height: 1.7;
+    }
+    td.image {
+        width: 40;
+    }
+</style>

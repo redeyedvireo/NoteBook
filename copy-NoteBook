@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Copies NoteBook, and all its plug-ins to the target directory.
+# This script must be run from the top-level NoteBook directory.
+#
+# Usage:
+#  copy-NoteBook <dest-Dir>
+
+TARGET_DIR=$1
+
+pushd Src/NoteBook/NoteBook
+cp NoteBook $TARGET_DIR
+popd
+
+pushd Src/RichTextEditor
+cp libRichTextEditor.so $TARGET_DIR/plugins
+popd
+
+pushd Src/FolderEditor
+cp libFolderEditor.so $TARGET_DIR/plugins
+popd
+
+pushd Src/ToDoListEditor
+cp libToDoListEditor.so $TARGET_DIR/plugins
+popd
+
+pushd Src/ImportNoteBook/ImportNoteBook
+cp libImportNoteBook.so $TARGET_DIR/plugins
+popd
+
+pushd Src/ImportTiddlyWiki/ImportTiddlyWiki
+cp libImportTiddlyWiki.so $TARGET_DIR/plugins
+popd
+
+TARGET_DIR=

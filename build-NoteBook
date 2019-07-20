@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# Create NoteBook, and all its plug-ins
+# This script must be run from the top-level NoteBook directory.
+
+# May need to change this on different Linux distributions.
+QMAKE=qmake
+
+# Build NoteBook itself
+pushd Src/NoteBook/NoteBook
+$QMAKE
+make
+popd
+
+pushd Src/RichTextEditor
+$QMAKE
+make
+popd
+
+pushd Src/FolderEditor
+$QMAKE
+make
+popd
+
+pushd Src/ToDoListEditor
+$QMAKE
+make
+popd
+
+pushd Src/ImportNoteBook/ImportNoteBook
+$QMAKE
+make
+popd
+
+pushd Src/ImportTiddlyWiki/ImportTiddlyWiki
+$QMAKE
+make
+popd
+
+QMAKE=
